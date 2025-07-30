@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aersoares81&data=followers,repositories,stars,commits)](https://github.com/aersoares81/github-widgetbox)
+
 <!--
 **aersoares81/aersoares81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
